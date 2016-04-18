@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Boop List
 layout: default
 modal-id: 1
 date: 2016-04-18
