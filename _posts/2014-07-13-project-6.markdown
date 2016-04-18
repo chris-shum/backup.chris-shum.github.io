@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2016-04-18
-img: safe.png
+img: submarine.png
 alt: image-alt
 project-date: Ongoing
 client: SoulJerz Crew
