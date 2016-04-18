@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2016-04-18
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: March 2014
+client: General Assembly & HPE Haven OnDemand
+category: Android Development
+description: The function of the QuickTap is to make the task of ordering beers at a bar easier. QuickTap was another group project which was awarded 2nd place at GA & HPE's First Hackathon. The app features the use of HPEs speech recognition API to search for related beer information on BreweryDB. Additionally, the app has it's own SQLite Database allowing you to store said data for future use.
 
 ---
