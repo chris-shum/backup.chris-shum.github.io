@@ -31,27 +31,27 @@ color:
 
 # Footer settings
 footer:
-  copyright: Chris shum
-  location: Location
+  copyright: Chris Shum
+  location: New York
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/chrisshowme1
-  - title: instagram
-    url: https://www.instagram.com/chrisshowme/
   - title: linkedin
     url: https://www.linkedin.com/in/shumchris
   - title: generalassembly
     url: https://profiles.generalassemb.ly/profiles/shumchris
+  - title: instagram
+    url: https://www.instagram.com/chrisshowme/
+  - title: twitter
+    url: https://twitter.com/chrisshowme1
   - title: github
     url: http://github.com/chris-shum
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
+  - line: Central Jersey, NJ
   - line: New York, NY
 
 # Credits content
