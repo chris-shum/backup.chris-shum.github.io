@@ -1,4 +1,5 @@
 ---
+title: Manhattan Eats
 layout: default
 modal-id: 2
 date: 2016-04-18
