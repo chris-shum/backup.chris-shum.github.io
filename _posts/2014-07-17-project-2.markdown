@@ -1,12 +1,14 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2016-04-18
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: February 2014
+client: General Assembly
+category: Android Development
+description: <a href="https://github.com/chris-shum/Project-2">Manhattan Eats</a>.
+<br>
+For my second project, I created a neighborhood guide app. My app allows a user to browse through a pre-populated list of restaurants in the area, display the restaurant's information, and it allows you to map your way to the restaurant. I stored my restaurant data in an SQLite database and using a SQLiteOpenDatabaseHelper, my app can search, retrieve, and edit the columns of restaurant data. The app includes the use of an ArrayAdapter, Listeners, and Intents as well as the implementation of some material design.
 
 ---
