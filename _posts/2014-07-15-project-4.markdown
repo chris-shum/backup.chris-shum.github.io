@@ -1,4 +1,5 @@
 ---
+title: QuickTap
 layout: default
 modal-id: 4
 date: 2016-04-18
