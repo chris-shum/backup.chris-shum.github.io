@@ -11,3 +11,5 @@ category: Android Development
 description: Late.ly is a news aggregator app. It gathers specific web content into one location for easy viewing. This was my first Android group project and as a group project, there was a strong usage of Git/GitHub's branching and merge functions. The aggregator features APIs from Reddit, Foursquare, Meetup, and Weather.io. JSON data from the APIs are parsed using Gson and Retrofit through an AsyncTask. The interface features a TabLayout bar housing fragments which are customizable based on topics selected by the user. Each piece of data is displayed on a customized cards fitted onto a RecyclerView.
 
 ---
+
+<a href = "https://github.com/chris-shum/Project-3">Late.ly</a>
