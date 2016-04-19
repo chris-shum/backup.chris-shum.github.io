@@ -12,4 +12,4 @@ description: Late.ly is a news aggregator app. It gathers specific web content i
 
 ---
 
-<a href = "https://github.com/chris-shum/Project-3">Late.ly</a>
+<a href = "https://github.com/chris-shum/Project-3">Late.ly on GitHub</a>
