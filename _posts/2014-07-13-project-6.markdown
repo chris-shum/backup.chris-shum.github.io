@@ -11,3 +11,6 @@ category: Dance Entertainment
 description: SoulJerz is a New Jersey based BBoy/BGirl crew whose aim is to spread love and the knowledge of the hip-hop culture around the globe. As a member of SoulJerz Dance Entertainment, I spend my time promoting the crew's message with my talents. From performing alongside my fellow crew mates, to teaching dance to the local community, to organizing events for said community. 
 
 ---
+
+<iframe src="https://player.vimeo.com/video/117054749" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/117054749">Souljerz Crew</a> from <a href="https://vimeo.com/thesouljerzcrew">Souljerz Crew</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
