@@ -11,8 +11,7 @@ category: Android Development
 description: The function of the QuickTap is to make the task of ordering beers at a bar easier. QuickTap was another group project which was awarded 2nd place at GA & HPE's First Hackathon. The app features the use of HPEs speech recognition API to search for related beer information on BreweryDB. Additionally, the app has it's own SQLite Database allowing you to store said data for future use.
 
 ---
+<a href = "https://community.havenondemand.com/t5/Blog/GA-HPE-Haven-OnDemand-Hackathon-an-Android-Hackathon/ba-p/2654">Hackathon Blog</a><br>
+<a href = "https://github.com/chris-shum/GA-HPE-Hackathon/tree/master/QuickTap">QuickTap on GitHub</a><br>
+<a href = "http://devpost.com/software/quicktap">QuickTap on Devpost</a>
 
-<a href = "https://github.com/chris-shum/GA-HPE-Hackathon/tree/master/QuickTap">QuickTap</a><br>
-<a href = "https://community.havenondemand.com/t5/Blog/GA-HPE-Haven-OnDemand-Hackathon-an-Android-Hackathon/ba-p/2654">Hackathon</a>
-<br>
-<a href = "http://devpost.com/software/quicktap">Devpost</a>
