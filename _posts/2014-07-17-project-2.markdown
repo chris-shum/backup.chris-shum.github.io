@@ -8,8 +8,8 @@ alt: image-alt
 project-date: February 2016
 client: General Assembly
 category: Android Development
-description: For my second project, I created a neighborhood guide app. My app allows a user to browse through a pre-populated list of restaurants in the area, display the restaurant's information, and it allows you to map your way to the restaurant. I stored my restaurant data in an SQLite database and using a SQLiteOpenDatabaseHelper, my app can search, retrieve, and edit the columns of restaurant data. The app includes the use of an ArrayAdapter, Listeners, and Intents as well as the implementation of some material design.  Test
+description: For my second project, I created a neighborhood guide app. My app allows a user to browse through a pre-populated list of restaurants in the area, display the restaurant's information, and it allows you to map your way to the restaurant. I stored my restaurant data in an SQLite database and using a SQLiteOpenDatabaseHelper, my app can search, retrieve, and edit the columns of restaurant data. The app includes the use of an ArrayAdapter, Listeners, and Intents as well as the implementation of some material design.
 ---
 
-<a href = "https://github.com/chris-shum/Project-2">Test</a>
+<a href = "https://github.com/chris-shum/Project-2">Manhattan Eats</a>
 
