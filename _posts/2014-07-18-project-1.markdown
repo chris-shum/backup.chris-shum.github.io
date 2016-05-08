@@ -5,10 +5,7 @@ modal-id: 5
 date: 2016-04-18
 img: musu.jpg
 alt: image-alt
-project-date: April 2016
-client: General Assembly
-category: Android Development
-description: Meet Up, Speak Up is a chat app offering instant translation to and from your desired languages. It features public chatrooms as well as the ability to create your own private chatrooms (1on1 or group). The core of the app relies on Firebase as its database and uses Firebase's UI library to send and receive data. The translation comes from Microsoft Bing's Translate API and the app is also using Bing's library as well as Volley's library to handle requests asynchronously.
+description: Meet Up, Speak Up is a chat app offering instant translation to and from 13 languages. It features public chatrooms as well as the ability to create your own private chatrooms. The app uses Firebase's UI to send and receive data from a Firebase database.  The translations come from the Microsoft Translate API, using their library as well as Volley's library to handle translation requests asynchronously.
 
 ---
 
