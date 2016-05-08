@@ -5,7 +5,7 @@ modal-id: 4
 date: 2016-04-18
 img: quicktap.jpg
 alt: image-alt
-description: QuickTap was awarded 2nd Place at the GA & HPE Haven OnDemand Hackathon.  The function of the QuickTap is to simplify the task of ordering beers at a bar. The app features the use of HPE's speech recognition API to search for beer related information on BreweryDB. Additionally, the app has its own SQLite database allowing you to store said data for future use.
+description: QuickTap was awarded 2nd Place at the GA & HPE Haven OnDemand Hackathon.  It was a team effort consisting of partner programming resulting in strong usage of Git branching and merging.  The function of the QuickTap is to simplify the task of ordering beers at a bar. The app features the use of HPE's speech recognition API to search for beer related information on BreweryDB. Additionally, the app has its own SQLite database allowing you to store said data for future use.
 
 ---
 
