@@ -8,7 +8,20 @@ alt: image-alt
 description: QuickTap was awarded 2nd Place at the GA & HPE Haven OnDemand Hackathon.  The function of the QuickTap is to simplify the task of ordering beers at a bar. The app features the use of HPE's speech recognition API to search for beer related information on BreweryDB. Additionally, the app has its own SQLite database allowing you to store said data for future use.
 
 ---
-<a href = "https://community.havenondemand.com/t5/Blog/GA-HPE-Haven-OnDemand-Hackathon-an-Android-Hackathon/ba-p/2654">Read about the hackathon</a><br>
-<a href = "https://github.com/chris-shum/GA-HPE-Hackathon/tree/master/QuickTap">QuickTap on GitHub</a><br>
-<a href = "http://devpost.com/software/quicktap">QuickTap on Devpost</a>
 
+<div style="text-align:center">
+
+<a href="http://chris-shum.github.io/img/hpe.png" target="_blank">
+<img alt='HPE Blog' src="https://community.havenondemand.com/t5/Blog/GA-HPE-Haven-OnDemand-Hackathon-an-Android-Hackathon/ba-p/2654"  width="180"/>
+</a>
+
+<a href="http://chris-shum.github.io/img/github.png" target="_blank">
+<img alt='View on GitHub' src="https://github.com/chris-shum/GA-HPE-Hackathon/tree/master/QuickTap"  width="180"/>
+</a>
+
+<a href="http://chris-shum.github.io/img/devpost.png" target="_blank">
+<img alt='View on GitHub' src="http://devpost.com/software/quicktap"  width="180"/>
+</a>
+
+
+</div>
