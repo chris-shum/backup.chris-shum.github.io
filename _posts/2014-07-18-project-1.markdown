@@ -1,12 +1,19 @@
 ---
-title: Boop List
+title: Meet Up, Speak Up
 layout: default
 modal-id: 5
 date: 2016-04-18
-img: cabin.png
+img: musu.jpg
 alt: image-alt
-project-date: January 2016
+project-date: April 2016
 client: General Assembly
 category: Android Development
-description: The Boop List was my first project at General Assembly; I created a checklist app. In order to keep things simple for the user, I made every function (adding, deleting, saving) controllable with one button. The app consists of two activities; each activity includes of an EditText view and a button which allows the user to add items onto an ArrayList. The ArrayList is then displayed using a ListView using a SimpleAdapter. I also used a hashmap to index the multiple ArrayLists created by the user. The UI also includes of using OnItemClickListeners to pass data through an intent with startActivityForResult().
+description: Meet Up, Speak Up is a chat app offering instant translation to and from your desired languages. It features public chatrooms as well as the ability to create your own private chatrooms (1on1 or group). The core of the app relies on Firebase as its database and uses Firebase's UI library to send and receive data. The translation comes from Microsoft Bing's Translate API and the app is also using Bing's library as well as Volley's library to handle requests asynchronously.
+
 ---
+
+<div style="text-align:center">
+    <a href='https://play.google.com/store/apps/details?id=com.showme.android.finalproject' target="_blank">
+        <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png' width="180"/>
+    </a>
+</div>

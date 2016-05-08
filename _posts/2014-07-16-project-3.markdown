@@ -3,7 +3,7 @@ title: Late.ly
 layout: default
 modal-id: 3
 date: 2016-04-18
-img: circus.png
+img: lately.jpg
 alt: image-alt
 project-date: March 2016
 client: General Assembly
