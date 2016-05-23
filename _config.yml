@@ -1,5 +1,5 @@
 # Site settings
-title: Christopher Shum, MSc.
+title: Chris Shum, MSc.
 email: shum.chris8@gmail.com
 url: https://chris-shum.github.io/
 description: "Personal portfolio of Chris Shum."
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Chris Shum, MSc.
+  copyright: Chris Shum
   location: Location
   social: Around the Web
   credits: Credits
@@ -49,7 +49,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Central Jersey, ANJ
+  - line: Central Jersey, NJ
   - line: New York, NY
 
 # Credits content
