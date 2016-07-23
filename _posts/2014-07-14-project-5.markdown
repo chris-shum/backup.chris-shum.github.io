@@ -1,14 +1,14 @@
 ---
 title: Check List
 layout: default
-modal-id: 1
+modal-id: 5
 date: 2016-07-23
 img: checklist.jpg
 alt: image-alt
 project-date: January 2016
 client: General Assembly
 category: Android Development
-description: The Boop List was my first project at General Assembly; I created a checklist app. In order to keep things simple for the user, I made every function (adding, deleting, saving) controllable with one button. The app consists of two activities; each activity includes of an EditText view and a button which allows the user to add items onto an ArrayList. The ArrayList is then displayed using a ListView using a SimpleAdapter. I also used a hashmap to index the multiple ArrayLists created by the user. The UI also includes of using OnItemClickListeners to pass data through an intent with startActivityForResult().
+description: This checklist consists of two activities which house the main list and the items within each list.  Each activity displays the data in a RecyclerView using the same RecyclerViewAdapter.  Data is added/editted/deleted with the help of a DialogBox.
 ---
 <div style="text-align:center">
 
