@@ -15,9 +15,4 @@ description: Manhattan Eats is a neighborhood guide app made in a fashion simila
 <a href= "https://github.com/chris-shum/Project-2" target="_blank">
 <img alt='View on GitHub' src= "http://chris-shum.github.io/img/github.png" width="180"/>
 </a>
-<div style="text-align:center">
-<a href= "https://github.com/chris-shum/Project-2" target="_blank">
-<img alt='View on GitHub' src= "http://chris-shum.github.io/img/github.png" width="180"/>
-</a>
-
 </div>
