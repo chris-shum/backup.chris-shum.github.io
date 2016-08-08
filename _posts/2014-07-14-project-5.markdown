@@ -8,7 +8,7 @@ alt: image-alt
 project-date: January 2016
 client: General Assembly
 category: Android Development
-description: This checklist consists of two activities which house the main list and the items within each list.  Each activity displays the data in a RecyclerView using the same RecyclerViewAdapter.  Data is added/editted/deleted with the help of a DialogBox.
+description: This checklist consists of two activities which house the main list and the items within each list.  Each activity displays the data in a RecyclerView using the same RecyclerViewAdapter.  Data is added/editted/deleted with the help of a DialogBox.  I also implemented an ItemTouchHelper in order to allow drag and drop of the RecyclerView items.
 ---
 <div style="text-align:center">
 
